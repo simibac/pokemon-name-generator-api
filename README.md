@@ -1,6 +1,6 @@
-# Pokémon Name Generator
-
 This code was forked from [this repository](https://github.com/simon-larsson/pokemon-name-generator) and the model is used to serve a REST API endpoint.
+
+# Pokémon Name Generator
 
 Generates new unique Pokemon names with Keras using a recurrent neural network (LSTM). Written as a generic text generator that can be used to generate lines of poetry, other names, or just text in general. It all depends on what it gets input.
 
